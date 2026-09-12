@@ -1,0 +1,5 @@
+*.tif
+*.aux.xml
+*.gpkg
+*.gpkg-shm
+*.gpkg-wal
